@@ -6,6 +6,8 @@
 
 - [Инструкция по укладке Uniclic](https://raw.githubusercontent.com/Evvvgenia/docs-kuberpol/main/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%83%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B5%20Uniclic.pdf)
 - [Инструкция по укладке Unidrop](https://raw.githubusercontent.com/Evvvgenia/docs-kuberpol/main/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%83%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B5%20Unidrop.pdf)
+- [Технические характеристики](https://raw.githubusercontent.com/Evvvgenia/docs-kuberpol/main/Технические%20характеристики%20Куберпол%20Резонанс.pdf)
+- [Гарантия Куберпол Резонанс](https://raw.githubusercontent.com/Evvvgenia/docs-kuberpol/main/Гарантия%20Куберпол%20Резонанс.pdf)
 
 ## Сертификаты
 
